@@ -1,0 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.todo-body{
+  width: 70%;
+  margin: 0 auto;
+}
